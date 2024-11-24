@@ -1,0 +1,45 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.create_form input {
+  width: 300px;
+  padding: 10px;
+  border-bottom: 2px solid;
+  outline: none;
+}
+.create_form button {
+  background-color: black;
+  color: #ffffff;
+  cursor: pointer;
+  margin: 10px;
+  cursor: pointer;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.two_button button{
+  color: #ffffff;
+  margin: 10px;
+  cursor: pointer;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+}
+.delete{
+  background-color: red;
+}
+.update{
+  background-color: rgb(91, 59, 229);
+}
+.tbodydesign td {
+  font-size: 16px;
+}
